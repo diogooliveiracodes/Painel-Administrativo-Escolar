@@ -20,6 +20,8 @@
 
 <h4>Site publicado em:</h4>
 <a href="painel-administrativo.herokuapp.com"> http://painel-administrativo.herokuapp.com/ </a>
+<p>Login: admin@email.com </p>
+<p>Senha: 123456789 </p>
 
 
 
