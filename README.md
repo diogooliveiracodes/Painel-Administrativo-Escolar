@@ -3,8 +3,9 @@
 <h4>Recursos do site:</h4>
 <ul>
     <li>Cadastrar Cursos através de upload de arquivo XML</li>
-    <li>Cadastrar Alunos</li>
-    <li>Cadastrar Turmas</li>
+    <li>Cadastrar Alunos (relacionamento muitos para muitos com turmas)</li>
+    <li>Cadastrar Turmas (relacionamento um para um com curso e muitos para muitos com aluno)</li>
+    <li>API para preenchimento automático de endereço via CEP</li>
 </ul>
 
 <h4>Tecnologias adotadas:</h4>
