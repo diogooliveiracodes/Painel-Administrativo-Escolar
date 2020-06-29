@@ -6,6 +6,7 @@
     <li>Cadastrar Alunos (relacionamento muitos para muitos com turmas)</li>
     <li>Cadastrar Turmas (relacionamento um para um com curso e muitos para muitos com aluno)</li>
     <li>API para preenchimento automático de endereço via CEP</li>
+    <li>Total responsividade para dispositivos mobile</li>
 </ul>
 
 <h4>Tecnologias adotadas:</h4>
