@@ -21,7 +21,7 @@
 </ul>
 
 <h4>Site publicado em:</h4>
-<a href="http://painel-administrativo.herokuapp.com"> http://painel-administrativo.herokuapp.com/ </a>
+<p><a href="http://painel-administrativo.herokuapp.com"> http://painel-administrativo.herokuapp.com/ </a></p>
 <p>Login: admin@email.com </p>
 <p>Senha: 123456789 </p>
 
