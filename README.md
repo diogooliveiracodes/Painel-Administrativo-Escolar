@@ -25,7 +25,7 @@
 <p>Login: admin@email.com </p>
 <p>Senha: 123456789 </p>
 
-<h4>Prints</h4>
+<h4>Prints:</h4>
 <img src="https://testedev-laravel-diogo.s3-sa-east-1.amazonaws.com/prints/index.png" width="301px" height="146">
 <img src="https://testedev-laravel-diogo.s3-sa-east-1.amazonaws.com/prints/alunos_show.png" width="301px" height="297">
 <img src="https://testedev-laravel-diogo.s3-sa-east-1.amazonaws.com/prints/turmas_show.png" width="301px" height="219">
